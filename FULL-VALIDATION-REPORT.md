@@ -260,4 +260,3 @@ Every example in this repository:
 - ✅ Works on Linux (tested); macOS/BSD compatible (notes provided)
 - ✅ Is ready to copy-paste into your project
 
-**Ready to push to GitHub.** See GITHUB-PUSH-GUIDE.md for next steps.
