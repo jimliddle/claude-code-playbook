@@ -1,4 +1,4 @@
-# Full Validation Report — All Examples
+# Full Validation Report All Examples
 
 **Tested:** May 25, 2026  
 **Environment:** Linux (Ubuntu container)
