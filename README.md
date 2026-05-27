@@ -1,9 +1,12 @@
 # Claude Code Tips & Best Practices
 
-A curated, tested guide to Claude Code skills, sub-agents, and workflows, based on concepts from **Boris Cherny** (Claude Code creator) and validated with real-world examples.
+A curated, tested guide to Claude Code skills, sub-agents, and workflows—based on concepts from **Boris Cherny** (Claude Code creator) and validated with real-world examples.
 
-> **This guide:** Distills foundational concepts + provides 20+ examples, all tested and documented.  
-> **For the complete  Boris Cherny 89-tip guide:** See [howborisusesclaudecode.com](https://howborisusesclaudecode.com)
+Part of a broader ecosystem of **agentic skills frameworks** (including Superpowers by obra and Andrej Karpathy's original concept). This guide focuses specifically on Claude Code patterns with 21+ copy-paste examples.
+
+> **This guide:** Distills foundational concepts + provides 21+ copy-paste examples, all tested and documented.  
+> **For the complete 89-tip guide:** See [howborisusesclaudecode.com](https://howborisusesclaudecode.com)  
+> **For other frameworks:** See [REFERENCES.md](./REFERENCES.md)
 
 ---
 
